@@ -4,7 +4,7 @@ What is your understanding of Blockchain?
 Ans:-  A blockchain is a database  that is shared across a network of computers. Once a record has been added to the chain it is very difficult to change. To ensure all the copies of the database are the same, the network  makes constant checks. Blockchains have been used to underpin cyber-currencies like bitcoin, but many other possible uses are emerging
 
 
--------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Question 2: 
@@ -14,7 +14,7 @@ What is the core problem Blockchain trying to solve?
 Ans:-The technology at the heart of bitcoin and other virtual currencies, blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. The ledger itself can also be programmed to trigger transactions automatically.
 
 
-------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question 3: 
 What are the few features which Blockchain will give you? 
@@ -38,7 +38,7 @@ f. Minting-->
 Basically, there are a lot of ways of minting a problem of manipulation that we can solve by Blockchain. If you go to the west and ask them do they trust technology there answer would be YES namely Google, Facebook or their banks but this is not the case with the other world, they do not trust these organization that much. It’s not about the places, those are rich.
 
 
-------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question 4: 
 What all things does a Block contain? 
@@ -66,7 +66,7 @@ mainly divided into 3 parts:
 
 
 
-------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Question 5: 
